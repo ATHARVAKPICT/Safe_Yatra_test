@@ -9,6 +9,7 @@ This repository contains a Flutter plugin that provides a [Google Navigation](ht
 
 ## Requirements
 
+
 |                                 | Android       | iOS       |
 | ------------------------------- | ------------- | --------- |
 | **Minimum mobile OS supported** | API level 23+ | iOS 15.0+ |
